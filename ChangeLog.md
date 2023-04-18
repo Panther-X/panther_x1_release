@@ -7,3 +7,4 @@
 ## 2023-04-10
 
 * Update: Update gateway-config version
+* Update: Update erlang version
